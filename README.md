@@ -8,6 +8,7 @@
 
 
  <h3 align="left">schematic:-</h3> 
- <img width="817" alt="image" src="https://github.com/Abhirecket/Restoring-Division/assets/46784291/4643f6cd-8ad6-4bb4-93b2-afe022c14965">
+ <img width="599" alt="image" src="https://github.com/Abhirecket/Restoring-Division/assets/46784291/a06ed385-9412-4d3f-9c1d-2e408400ca75">
+
 
  
