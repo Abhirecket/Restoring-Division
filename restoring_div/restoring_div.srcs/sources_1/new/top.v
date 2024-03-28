@@ -22,7 +22,7 @@
 
 module top #( 
 
-parameter WIDTH = 2 
+parameter WIDTH = 8 
 
 )( 
 input clk, rst, 
